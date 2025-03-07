@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fc84db9.css",
+    "main.js": "/static/js/main.03ad56c7.js",
+    "static/js/488.a4dee736.chunk.js": "/static/js/488.a4dee736.chunk.js",
+    "static/media/video.mp4": "/static/media/video.3654430e6784fa12f11a.mp4",
+    "static/media/er_1.jpg": "/static/media/er_1.ccbaf0a42ac3c8219877.jpg",
+    "static/media/cute-cartoony-characters-hugging.jpg": "/static/media/cute-cartoony-characters-hugging.fd65b7332ca36216434b.jpg",
+    "static/media/download.jpg": "/static/media/download.d7cf58e91288a789fc3e.jpg",
+    "index.html": "/index.html",
+    "main.3fc84db9.css.map": "/static/css/main.3fc84db9.css.map",
+    "main.03ad56c7.js.map": "/static/js/main.03ad56c7.js.map",
+    "488.a4dee736.chunk.js.map": "/static/js/488.a4dee736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc84db9.css",
+    "static/js/main.03ad56c7.js"
+  ]
+}
