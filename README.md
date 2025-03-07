@@ -13,7 +13,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+Add s for upload folder before run
 
+Terminal 1 - cd resume - npm run start
+Terminal 2 - cd frontend - npm run dev
+Terminal 3 - cd resume/backend - npm run dev
+Terminal 4 - cd resume/backend - python app.py
+Terminal 5 - cd resume/backend - python main.py
+Terminal 6 - cd resume/backend - uvicorn profile:app --reload --port 7000
+Terminal 7 - cd resume/backend - uvicron sender:app --reload --port 4000
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
