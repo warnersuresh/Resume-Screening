@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+flask
+flask-cors
+werkzeug
+bcrypt
+requests
+PyPDF2
+datetime
+nltk
+fitz  # PyMuPDF
+motor
+pymongo
+scikit-learn
